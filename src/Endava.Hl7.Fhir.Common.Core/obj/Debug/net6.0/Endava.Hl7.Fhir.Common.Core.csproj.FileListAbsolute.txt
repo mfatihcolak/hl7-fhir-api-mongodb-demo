@@ -1,0 +1,12 @@
+C:\Users\pardu\Source\Repos\Endava.Hl7.Fhir.OpenAPI.Demo\src\Endava.Hl7.Fhir.Common.Core\bin\Debug\net6.0\Endava.Hl7.Fhir.Common.Core.deps.json
+C:\Users\pardu\Source\Repos\Endava.Hl7.Fhir.OpenAPI.Demo\src\Endava.Hl7.Fhir.Common.Core\bin\Debug\net6.0\Endava.Hl7.Fhir.Common.Core.dll
+C:\Users\pardu\Source\Repos\Endava.Hl7.Fhir.OpenAPI.Demo\src\Endava.Hl7.Fhir.Common.Core\bin\Debug\net6.0\Endava.Hl7.Fhir.Common.Core.pdb
+C:\Users\pardu\Source\Repos\Endava.Hl7.Fhir.OpenAPI.Demo\src\Endava.Hl7.Fhir.Common.Core\obj\Debug\net6.0\Endava.Hl7.Fhir.Common.Core.csproj.AssemblyReference.cache
+C:\Users\pardu\Source\Repos\Endava.Hl7.Fhir.OpenAPI.Demo\src\Endava.Hl7.Fhir.Common.Core\obj\Debug\net6.0\Endava.Hl7.Fhir.Common.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pardu\Source\Repos\Endava.Hl7.Fhir.OpenAPI.Demo\src\Endava.Hl7.Fhir.Common.Core\obj\Debug\net6.0\Endava.Hl7.Fhir.Common.Core.AssemblyInfoInputs.cache
+C:\Users\pardu\Source\Repos\Endava.Hl7.Fhir.OpenAPI.Demo\src\Endava.Hl7.Fhir.Common.Core\obj\Debug\net6.0\Endava.Hl7.Fhir.Common.Core.AssemblyInfo.cs
+C:\Users\pardu\Source\Repos\Endava.Hl7.Fhir.OpenAPI.Demo\src\Endava.Hl7.Fhir.Common.Core\obj\Debug\net6.0\Endava.Hl7.Fhir.Common.Core.csproj.CoreCompileInputs.cache
+C:\Users\pardu\Source\Repos\Endava.Hl7.Fhir.OpenAPI.Demo\src\Endava.Hl7.Fhir.Common.Core\obj\Debug\net6.0\Endava.Hl7.Fhir.Common.Core.dll
+C:\Users\pardu\Source\Repos\Endava.Hl7.Fhir.OpenAPI.Demo\src\Endava.Hl7.Fhir.Common.Core\obj\Debug\net6.0\refint\Endava.Hl7.Fhir.Common.Core.dll
+C:\Users\pardu\Source\Repos\Endava.Hl7.Fhir.OpenAPI.Demo\src\Endava.Hl7.Fhir.Common.Core\obj\Debug\net6.0\Endava.Hl7.Fhir.Common.Core.pdb
+C:\Users\pardu\Source\Repos\Endava.Hl7.Fhir.OpenAPI.Demo\src\Endava.Hl7.Fhir.Common.Core\obj\Debug\net6.0\ref\Endava.Hl7.Fhir.Common.Core.dll
